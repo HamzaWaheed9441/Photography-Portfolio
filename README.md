@@ -5,7 +5,7 @@ Markdown
 
 A professional, performance-optimized portfolio website for portrait photographers, built with modern web technologies and a focus on editorial design, blazing-fast speeds, and rigorous accessibility standards.
 
-[View Live Project](https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae)
+[View Live Project](https://hwphotography.gt.tc/)
 
 </div>
 
