@@ -1,0 +1,130 @@
+{
+  "id": "weddings-01",
+  "title": "Weddings",
+  "slug": "weddings",
+  "description": "Wedding photography by Hamza Waheed",
+  "featured": true,
+  "gridSizes": [6, 4, 5],
+  "images": [
+    {
+      "id": "w-1-0",
+      "src": "/images/2. Weddings/1.0.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Zahid's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Zahid's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-1-1",
+      "src": "/images/2. Weddings/1.1.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Zahid's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Zahid's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-1-2",
+      "src": "/images/2. Weddings/1.2.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Zahid's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Zahid's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-1-3",
+      "src": "/images/2. Weddings/1.3.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Zahid's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Zahid's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-1-4",
+      "src": "/images/2. Weddings/1.4.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Zahid's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Zahid's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-1-5",
+      "src": "/images/2. Weddings/1.5.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Zahid's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Zahid's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-2-0",
+      "src": "/images/2. Weddings/2.0.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Hammad's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Hammad's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-2-1",
+      "src": "/images/2. Weddings/2.1.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Hammad's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Hammad's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-2-2",
+      "src": "/images/2. Weddings/2.2.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Hammad's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Hammad's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-2-3",
+      "src": "/images/2. Weddings/2.3.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Hammad's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Hammad's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-3-0",
+      "src": "/images/2. Weddings/3.0.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Ahsan's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Ahsan's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-3-1",
+      "src": "/images/2. Weddings/3.1.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Ahsan's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Ahsan's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-3-2",
+      "src": "/images/2. Weddings/3.2.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Ahsan's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Ahsan's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-3-3",
+      "src": "/images/2. Weddings/3.3.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Ahsan's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Ahsan's Wedding", "year": "2025", "series": "weddings" }
+    },
+    {
+      "id": "w-3-4",
+      "src": "/images/2. Weddings/3.4.webp",
+      "alt": "Wedding photograph by Hamza Waheed",
+      "aspectRatio": 0.75,
+      "caption": { "subject": "Ahsan's Wedding", "profession": "Wedding Photography" },
+      "metadata": { "title": "Ahsan's Wedding", "year": "2025", "series": "weddings" }
+    }
+  ]
+}

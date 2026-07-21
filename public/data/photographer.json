@@ -1,0 +1,53 @@
+{
+  "name": "Hamza Waheed",
+  "tagline": "Professional Photographer & Photo Editor",
+  "biography": {
+    "philosophy": "I believe every moment holds a story waiting to be told. My goal is to capture the raw, authentic emotions that make life beautiful — whether it's the joy of a wedding celebration, the quiet charm of a city street, or the grandeur of architectural detail. I approach every shoot with the same mindset: be present, be patient, and let the moment speak for itself. The best photographs aren't posed — they're felt. That's the kind of work I strive to create.",
+    "background": "Photography started as a creative outlet during my college years and quickly became my calling. As a Senior Member and lead photographer of Naqsh Media Society, I honed my skills covering university events and festivals while mentoring junior photographers. Studying Computer Science at MNS University of Agriculture, Multan gave me a strong technical foundation, and a Coursera certification from Michigan State University deepened my understanding of camera fundamentals, exposure, and lighting. What began as a passion project turned into a professional journey spanning wedding halls, city streets, and architectural landmarks across Pakistan.",
+    "experience": "With over 3 years of professional experience, I specialize in wedding, event, portrait, street, travel, and architecture photography. As a freelance photographer since 2021, I've delivered hundreds of professionally edited photo galleries for clients. On the editing side, I've processed thousands of images for photographers worldwide — including collaborations with U.S.-based studios — specializing in high-end skin retouching, color grading, and RAW workflow processing. I'm proficient in Adobe Photoshop, Lightroom, Capture One, and Luminar Neo, and I maintain consistent editing styles across large batches with fast turnaround times.",
+    "currentFocus": "I'm currently focused on expanding my visual storytelling work — documenting cultural environments, city life, and architectural compositions that reveal the soul of a place. My recent award-winning work includes 1st Position in Creative Portrait Photography at the International Student Convention & Expo 2025 (GCU Faisalabad) and 1st Position in Architecture Photography at the Lyallpur Festival 2025. I'm available for wedding coverage, portrait sessions, event photography, and remote photo editing projects. If you have a story to tell through images, let's connect and make it happen."
+  },
+  "contact": {
+    "email": "hamzawaheed944@gmail.com",
+    "phone": "+92 300 0672247"
+  },
+  "clients": [
+    {
+      "category": "Photography Specializations",
+      "clients": [
+        "Wedding Photography",
+        "Event Photography",
+        "Creative Portrait Photography",
+        "Street Photography",
+        "Travel Photography",
+        "Architecture Photography"
+      ]
+    },
+    {
+      "category": "Editing & Post-Production",
+      "clients": [
+        "High-End Skin Retouching",
+        "Color Correction & Grading",
+        "RAW Workflow Processing",
+        "Background Cleanup & Manipulation",
+        "Batch Editing (100+ images/day)",
+        "Remote Collaboration with International Studios"
+      ]
+    },
+    {
+      "category": "Awards & Recognition",
+      "clients": [
+        "1st Position — Creative Portrait Photography (ISCE 2025, GCU Faisalabad)",
+        "1st Position — Architecture Photography (Lyallpur Festival 2025, UAF)",
+        "Cameras, Exposure & Photography — Michigan State University (Coursera)",
+        "Senior Member & Lead Photographer — Naqsh Media Society",
+        "Visual Content Lead — University Events & Festivals",
+        "Mentor — Junior Photographers in Shooting & Editing"
+      ]
+    }
+  ],
+  "portraitImage": {
+    "src": "/images/4. About Me/Philosophy & Background.webp",
+    "alt": "Portrait of Hamza Waheed, professional photographer and photo editor"
+  }
+}
